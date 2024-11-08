@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CharlieC141/Online-Portfolio/static/css/main.412e9d9f.css",
-    "main.js": "/CharlieC141/Online-Portfolio/static/js/main.85f51671.js",
-    "static/js/453.acca0757.chunk.js": "/CharlieC141/Online-Portfolio/static/js/453.acca0757.chunk.js",
-    "static/media/autumnbackground.png": "/CharlieC141/Online-Portfolio/static/media/autumnbackground.b566732c4144a458f32c.png",
-    "static/media/facebook2.png": "/CharlieC141/Online-Portfolio/static/media/facebook2.e019c5b30be8e45750ab.png",
-    "static/media/Youtube2.png": "/CharlieC141/Online-Portfolio/static/media/Youtube2.da5065e8ee7cc91dc15e.png",
-    "static/media/linkedin2.png": "/CharlieC141/Online-Portfolio/static/media/linkedin2.89a04d0fa60511ae41bb.png",
-    "static/media/github 2.png": "/CharlieC141/Online-Portfolio/static/media/github 2.4f1f41894cb5c155b9ac.png",
-    "static/media/tiktok.png": "/CharlieC141/Online-Portfolio/static/media/tiktok.e229090a5e69b088ec5b.png",
-    "index.html": "/CharlieC141/Online-Portfolio/index.html",
-    "main.412e9d9f.css.map": "/CharlieC141/Online-Portfolio/static/css/main.412e9d9f.css.map",
-    "main.85f51671.js.map": "/CharlieC141/Online-Portfolio/static/js/main.85f51671.js.map",
-    "453.acca0757.chunk.js.map": "/CharlieC141/Online-Portfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/Online-Portfolio/static/css/main.0e4fa4ae.css",
+    "main.js": "/Online-Portfolio/static/js/main.7f3e6032.js",
+    "static/js/453.acca0757.chunk.js": "/Online-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/autumnbackground.png": "/Online-Portfolio/static/media/autumnbackground.b566732c4144a458f32c.png",
+    "static/media/facebook2.png": "/Online-Portfolio/static/media/facebook2.e019c5b30be8e45750ab.png",
+    "static/media/Youtube2.png": "/Online-Portfolio/static/media/Youtube2.da5065e8ee7cc91dc15e.png",
+    "static/media/linkedin2.png": "/Online-Portfolio/static/media/linkedin2.89a04d0fa60511ae41bb.png",
+    "static/media/github 2.png": "/Online-Portfolio/static/media/github 2.4f1f41894cb5c155b9ac.png",
+    "static/media/tiktok.png": "/Online-Portfolio/static/media/tiktok.e229090a5e69b088ec5b.png",
+    "index.html": "/Online-Portfolio/index.html",
+    "main.0e4fa4ae.css.map": "/Online-Portfolio/static/css/main.0e4fa4ae.css.map",
+    "main.7f3e6032.js.map": "/Online-Portfolio/static/js/main.7f3e6032.js.map",
+    "453.acca0757.chunk.js.map": "/Online-Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.412e9d9f.css",
-    "static/js/main.85f51671.js"
+    "static/css/main.0e4fa4ae.css",
+    "static/js/main.7f3e6032.js"
   ]
 }
